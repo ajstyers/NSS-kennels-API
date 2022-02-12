@@ -25,9 +25,25 @@
             "id": 2,
             "name": "Trevor Guinn",
             "address": "123 NSS Ln"
+        },
+        {
+            "id": 3,
+            "name": "Alex Ryan",
+            "address": "303 Lipscomb Blvd"
         }
     ],
-    "employees": [],
+    "employees": [
+        {
+        "id": 1,
+        "name": "Hannah Moore",
+        "locationId": 1
+        },
+        {
+            "id": 2,
+            "name": "Storm Johnson",
+            "locationId": 2
+        }
+    ],
     "locations": [
         {
             "id": 1,
